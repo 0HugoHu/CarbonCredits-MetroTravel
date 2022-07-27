@@ -1,0 +1,290 @@
+[
+  {
+    "_id": 1,
+    "title": "扶贫 蓝天净土 藏地扶贫大礼包 2300g",
+    "price": { "credit": 29900 },
+    "titleImage": "/换购/1.jpg",
+    "detail": {
+      "detailImage": "/换购/1-1.jpg",
+      "brand": "蓝天净土",
+      "description": "一个礼包，寄托着80万贫困人口的幸福梦",
+      "manufacturer": "原材料来自西藏、青海，生产公司：石家庄市惠康食品有限公司，生产地址：河北省石家庄市正定县新城铺镇",
+      "contents": "牦牛煲 410gx2袋、牦牛排4片状 共480g、青稞精米500g、青稞珍珠米500g",
+      "additional": "一个礼包，牦牛、青稞两大高原美味。"
+    },
+    "categoryId": 2
+  },
+  {
+    "_id": 2,
+    "title": "扶贫 米脂县 桃花峁 小米锅巴麻辣味88gX6袋",
+    "price": { "credit": 3990 },
+    "titleImage": "/换购/2.jpg",
+    "detail": {
+      "detailImage": "/换购/2-1.jpg",
+      "brand": "桃花峁",
+      "description": "小米锅巴原料来自中国名米之乡，陕西省米脂县，得天独厚的自然条件和百年传统工艺成就一块好锅巴，儿时灶台边锅巴的味道。",
+      "manufacturer": "陕西米脂县",
+      "contents": "小米锅巴麻辣味88gX6袋",
+      "additional": "真小米，好锅巴"
+    },
+    "categoryId": 2
+  },
+  {
+    "_id": 3,
+    "title": "扶贫 秭归县 屈姑 橘子罐头312gx6罐装",
+    "price": { "credit": 2590 },
+    "titleImage": "/换购/3.jpg",
+    "detail": {
+      "detailImage": "/换购/3-1.jpg",
+      "brand": "屈姑",
+      "description": "原产地秭归取材新鲜橘子加屈姑32年的罐头经典工艺配方及采用巴氏杀菌完美保鲜，富含丰富维C，汤汁清透、酸甜可口，铁罐装。",
+      "manufacturer": "湖北秭归县",
+      "contents": "屈姑橘子罐头312gx6罐装",
+      "additional": "精选优质新鲜橘子及经典配方不含色素、防腐剂、甜蜜素，科学保鲜，酸甜可口，营养丰富，铁罐包装可放心购买。"
+    },
+    "categoryId": 2
+  },
+  {
+    "_id": 4,
+    "title": "扶贫 策勒红枣 新疆和田策勒红枣500gX2袋�",
+    "price": { "credit": 3250 },
+    "titleImage": "/换购/4.jpg",
+    "detail": {
+      "detailImage": "/换购/4-1.jpg",
+      "brand": "策勒红枣",
+      "description": "和田策勒县优质红枣产区下树的新枣，清洗、烘干、分装而成；果肉饱满，味道甘甜醇厚，很有嚼劲；果香浓郁，果皮薄，果核小；包装简洁，每袋500克，包装袋封口撕开后，有自封拉链，便于保存。",
+      "manufacturer": "新疆和田策勒",
+      "contents": "每袋500g",
+      "additional": "清洗后食用，可用于煲汤、煮粥、泡茶。存储条件：干燥、避光、密封"
+    },
+    "categoryId": 2
+  },
+  {
+    "_id": 5,
+    "title": "扶贫 桃花峁 米脂小米 420gX5袋真空装",
+    "price": { "credit": 3090 },
+    "titleImage": "/换购/5.jpg",
+    "detail": {
+      "detailImage": "/换购/5-1.jpg",
+      "brand": "桃花峁",
+      "description": "小米又名粟，古代叫禾。桃花峁小米，产自中国名米之乡，陕西省米脂县。",
+      "manufacturer": "陕西省榆林市米脂县",
+      "contents": "420g一袋，共计5袋；",
+      "additional": "所产小米，颗粒饱满，颜色金黄，晶莹明亮，味道香甜。焖成干饭，香甜松软，越嚼越香，回味无穷；煮成稀饭，粘糯爽口，清香四溢，饭汤表面有一层明亮的米油。"
+    },
+    "categoryId": 2
+  },
+  {
+    "_id": 6,
+    "title": "扶贫 会昌县 康寿 手撕豆腐干豆干400g",
+    "price": { "credit": 3000 },
+    "titleImage": "/换购/6.jpg",
+    "detail": {
+      "detailImage": "/换购/6-1.jpg",
+      "brand": "康寿",
+      "description": "会昌豆干选用优质大豆和香料，经传统工艺与现代科技结合精制而成。它富含人体所必需的脑磷脂、胺基酸和各种维生素，吃用方便、保质保鲜、风味独特、营养丰富，吃后口齿留香，回味无穷。",
+      "manufacturer": "江西会昌县",
+      "contents": "豆干400g",
+      "additional": "江西地方名产，有数百年历史，历史上曾被列为贡品。康寿会昌豆干被评为赣州市知名商标、江西省著名商标、江西老字号、江西世纪之光优秀产品。"
+    },
+    "categoryId": 2
+  },
+  {
+    "_id": 7,
+    "title": "相宜本草INOHERB 嫩亮补水面膜一盒5片装",
+    "price": { "credit": 3900 },
+    "titleImage": "/换购/7.jpg",
+    "detail": {
+      "detailImage": "/换购/7-1.jpg",
+      "brand": "相宜本草",
+      "description": "相宜本草INOHERB 嫩亮补水面膜一盒5片装",
+      "manufacturer": "生产厂家：上海相宜本草化妆品股份有限公司 生产地址：上海市宝山区城银路121号",
+      "contents": "面膜一盒5片装",
+      "additional": "单个礼品包装"
+    },
+    "categoryId": 1
+  },
+  {
+    "_id": 8,
+    "title": "爱国者 aigo U266 旋转CD纹防滑闪存U盘 黑色",
+    "price": { "credit": 3000 },
+    "titleImage": "/换购/8.jpg",
+    "detail": {
+      "detailImage": "/换购/8-1.jpg",
+      "brand": "爱国者",
+      "description": "爱国者U266机身高雅黑机糅合了中国传统方圆艺术搭配与北欧美学的简约风格，采用CD纹设计，不仅在拔插时可以起到防滑作用，也使产品显高端美观。",
+      "manufacturer": "公司：爱国者电子科技有限公司 地址：北京市海淀区上地九街9号北侧三层A区-9",
+      "contents": "闪存U盘*1",
+      "additional": "本产品全国联保，享受三包服务 由个人使用不当导致产品损坏不在免费保修范围之内 质保期为：5年质保。"
+    },
+    "categoryId": 1
+  },
+  {
+    "_id": 9,
+    "title": "趣野 单筒望远镜�",
+    "price": { "credit": 2500 },
+    "titleImage": "/换购/9.jpg",
+    "detail": {
+      "detailImage": "/换购/9-1.jpg",
+      "brand": "趣野",
+      "description": "趣野 单筒望远镜",
+      "manufacturer": "宁波舜鑫电子商务有限公司慈溪市白沙路街道华星黄金大厦",
+      "contents": "单筒望远镜*1",
+      "additional": "产品以及包装"
+    }
+  },
+  {
+    "_id": 10,
+    "title": "蓝月亮 深层洁净洗衣液薰衣草亮白增艳洁净衣物护理瓶装",
+    "price": { "credit": 5900 },
+    "titleImage": "/换购/10.jpg",
+    "detail": {
+      "detailImage": "/换购/10-1.jpg",
+      "brand": "蓝月亮",
+      "description": "蓝月亮 深层洁净洗衣液薰衣草亮白增艳洁净衣物护理瓶装",
+      "manufacturer": "广州蓝月亮实业有限公司 地址：广州市黄浦区云浦工业区埔南路36号",
+      "contents": "洗衣液*1",
+      "additional": "单个礼品包装；保修按国家三包政策"
+    }
+  },
+  {
+    "_id": 11,
+    "title": "咪咕熊猫 抽纸本色3层100抽8包装",
+    "price": { "credit": 4290 },
+    "titleImage": "/换购/11.jpg",
+    "detail": {
+      "detailImage": "/换购/11-1.jpg",
+      "brand": "咪咕熊猫",
+      "description": "咪咕熊猫本色3层100抽8包装",
+      "manufacturer": "供应商：昆明旭宏文化传播有限公司地址：云南省昆明市官渡区北京路96号锦华商务大厦8楼802号售后热线：4001658099",
+      "contents": "抽纸100抽8包装",
+      "additional": "以实际发货为准"
+    }
+  },
+  {
+    "_id": 12,
+    "title": "雨沐 全自动伞晴雨伞折叠三折伞学生双人伞十根伞骨防风伞",
+    "price": { "credit": 3170 },
+    "titleImage": "/换购/12.jpg",
+    "detail": {
+      "detailImage": "/换购/12-1.jpg",
+      "brand": "雨沐",
+      "description": "全自动伞晴雨伞折叠三折伞",
+      "manufacturer": "绍兴上虞佳禾伞厂 浙江上虞崧厦镇伞业工业园区1栋",
+      "contents": "全自动伞*1",
+      "additional": "雨伞，袋子"
+    }
+  },
+  {
+    "_id": 13,
+    "title": "_拓FLYTOP折叠铲 铁锹户外 急救防身 野营登山多功能铲子",
+    "price": { "credit": 2600 },
+    "titleImage": "/换购/13.jpg",
+    "detail": {
+      "detailImage": "/换购/13-1.jpg",
+      "brand": "_拓",
+      "description": "_拓FLYTOP折叠铲工兵铲 铁锹户外 急救防身 野营登山多功能铲子FT-002",
+      "manufacturer": "生产公司名称：浙江省衢州乐征户外用品有限公司 生产厂址：浙江衢州市沈家工业园区衢州乐征户外用品有限公司",
+      "contents": "折叠铲*1",
+      "additional": "兵工铲、售后卡"
+    }
+  },
+  {
+    "_id": 14,
+    "title": "斯来格李(SLIGOLEEE) 防晒冰丝手套套袖 开车户外防紫外线冰丝护袖",
+    "price": { "credit": 3000 },
+    "titleImage": "/换购/14.jpg",
+    "detail": {
+      "detailImage": "/换购/14-1.jpg",
+      "brand": "斯来格李",
+      "description": "斯来格李(SLIGOLEEE) 防晒冰丝手套套袖 开车户外防紫外线冰丝护袖，斯来格李(SLIGOLEEE) 服饰品牌坚持独立设计原则，根植自然，取道自然，致力于为客户提供舒适健康随性自然的产品。将产品的艺术观感与品牌文化有机融合，在高品质的基础上加入时尚元素，打造具有前卫潮流的产品，是斯来格李(SLIGOLEEE)服饰品牌持续生命力的唯一可取之道。",
+      "manufacturer": "北京星德瑞拉商贸有限公司  地址：北京市海淀区信息路15号",
+      "contents": "套袖*1",
+      "additional": "防晒冰丝手套套袖"
+    }
+  },
+  {
+    "_id": 15,
+    "title": "卡帝金威 韩版纯色简约户外双肩包旅行背包",
+    "price": { "credit": 3700 },
+    "titleImage": "/换购/15.jpg",
+    "detail": {
+      "detailImage": "/换购/15-1.jpg",
+      "brand": "卡帝金威",
+      "description": "卡帝金威 韩版纯色简约户外双肩包旅行背包",
+      "manufacturer": "生产企业：保定恒升箱包制造有限公司 ；生产地址：河北省保定市白沟新城工业园区48号",
+      "contents": "双肩包*1",
+      "additional": "双肩包x1、售后服务卡x1"
+    }
+  },
+  {
+    "_id": 16,
+    "title": "飞科(FLYCO)插座插线板插排插板6位1.8米FS20",
+    "price": { "credit": 3000 },
+    "titleImage": "/换购/16.jpg",
+    "detail": {
+      "detailImage": "/换购/16-1.jpg",
+      "brand": "飞科(FLYCO)",
+      "description": "型号：FS2015、FS2021；最大功率：2500W；线长：1.8米。",
+      "manufacturer": "制造商：上海飞科电器股份有限公司 地址：上海市松江区广富林东路555号",
+      "contents": "1.8米插线板*1",
+      "additional": "插座"
+    }
+  },
+  {
+    "_id": 17,
+    "title": "蒙牛MENGNIU 纯甄风味酸牛奶 200gX12盒",
+    "price": { "credit": 6750 },
+    "titleImage": "/换购/17.jpg",
+    "detail": {
+      "detailImage": "/换购/17-1.jpg",
+      "brand": "蒙牛",
+      "description": "酸牛奶200gX12盒",
+      "manufacturer": "内蒙古呼和浩特市和林格尔盛乐经济园区",
+      "contents": "酸牛奶200gX12盒",
+      "additional": "产品入彩盒包装后，再入邮包包装，含合格证，说明书，合格证。"
+    }
+  },
+  {
+    "_id": 18,
+    "title": "原恩 璀璨 6mm*108朱砂手串 本命年手串毛衣链两用",
+    "price": { "credit": 6700 },
+    "titleImage": "/换购/18.jpg",
+    "detail": {
+      "detailImage": "/换购/18-1.jpg",
+      "brand": "原恩",
+      "description": "朱砂手串天然饰品是所有饰品中可塑性最强的饰品，它具有新颖、独特的风格。它或凭造型出奇，或者天生色泽，或在装饰上展现新姿，创造了一种意蕴隽秀的艺术形象。",
+      "manufacturer": "北京",
+      "contents": "6mm*108朱砂手链*1或关公*1",
+      "additional": "6mm*108朱砂手链*1或关公*1"
+    }
+  },
+  {
+    "_id": 19,
+    "title": "艾伊特 MRG-1088H新款迷你家用手持挂烫机电熨斗�",
+    "price": { "credit": 3680 },
+    "titleImage": "/换购/19.jpg",
+    "detail": {
+      "detailImage": "/换购/19-1.jpg",
+      "brand": "艾伊特",
+      "description": "艾伊特 MRG-1088H新款迷你家用手持挂烫机电熨斗",
+      "manufacturer": "公司：宁波美依特电器制造有限公司 地址：浙江省慈溪市新铺镇浦沿村",
+      "contents": "电熨斗*1",
+      "additional": "原厂包装"
+    }
+  },
+  {
+    "_id": 20,
+    "title": "B BG ENSWEET 儿童中英文学习机平板电脑宝宝早教点读机",
+    "price": { "credit": 3880 },
+    "titleImage": "/换购/20.jpg",
+    "detail": {
+      "detailImage": "/换购/20-1.jpg",
+      "brand": "BBGENSWEET",
+      "description": "玩具型学习书能引发幼儿的学习兴趣，图、文、声并茂。让宝宝在娱乐中学习，在学习中娱乐，可以有效的提高孩子学习的兴趣，激发孩子学习的潜质，让孩子轻轻松松学习知识。",
+      "manufacturer": "广东省汕头市澄海区广益街道新乡前工业区",
+      "contents": "早教点读机*1",
+      "additional": "产品 1、服务联络卡 1"
+    }
+  }
+]
